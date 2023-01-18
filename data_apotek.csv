@@ -1,0 +1,51 @@
+No;Nama_Barang;Jenis_Obat;Persediaan;Stok_Awal;Stok_Akhir;Goal
+1;Metoklopramid;Obat Keras;Tablet;Sedikit;Sedikit;Tersedia
+2;Hexetidin;Obat Bebas;Cairan;Sedikit;Sedikit;Tidak Tersedia
+3;Triamcinolone Acetonide;Obat Keras;Tube;Sedang;Sedikit;Tidak Tersedia
+4;Bromheksin;Obat Bebas;Sirup;Sedikit;Sedikit;Tersedia
+5;Salbutamol;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedia
+6;Matempiron;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedai
+7;Mebhidrolin;Obat Bebas;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+8;Ketotifen;Obat Bebas;Tablet;Sedang;Sedang;Tersedia
+9;Mabendazol;Obat Bebas;Tablet;Sedikit;Sedikit;Tidak Tersedia
+10;Desoksimetason;Obat Keras;Tube;Sedikit;Sedikit;Tidak Tersedia
+11;Betametason;Obat Keras;Tube;Sedikit;Sedikit;Tidak Tersedia
+12;Antangin;Obat Bebas;Cairan;Banyak;Sedikit;Tidak Tersedia
+13;Gentamisin;Obat Keras;Tube;Sedikit;Sedikit;Tidak Tersedia
+14;Piroksikam;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedia
+15;Bodexin;Obat Bebas;Kapsul;Sedang;Sedikit;Tersedia
+16;Profigen;Obat Keras;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+17;Celebrex;Obat Keras;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+18;Bromheksin;Obat Bebas;Tablet;Sedikit;Sedikit;Tersedia
+19;Tracetate;Obat Keras;Sirup;Sedang;Sedikit;Tersedia
+20;Stesolid;Obat Keras;Tablet;Sedikit;Sedikit;Tersedia
+21;Sanmol;Obat Bebas;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+22;Stesolid;Obat Keras;Ampul;Sedikit;Sedikit;Tersedia
+23;Stesolild;Obat Keras;Sirup;Sedikit;Sedikit;Tidak Tersedia
+24;Akilen;Obat Keras;Cairan;Sedikit;Sedikit;Tersedia
+25;Frego;Obat Bebas;Tablet;Sedikit;Sedikit;Tersedia
+26;Dilatamol ;Obat Keras;Sprei Nasal;Sedikit;Sedikit;Tidak Tersedia
+27;Muscopan;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedia
+28;Antijamur;Obat Bebas;Tablet;Sedikit;Sedikit;Tidak Tersedia
+29;Antimo;Obat Bebas;Tablet;Banyak;Sedang;Tersedia
+30;Promagh;Obat Bebas;Tablet;Banyak;Sedikit;Tidak Tersedia
+31;Hufagrif;Obat Keras;Sirup;Sedang;Sedikit;Tidak Tersedia
+32;Homorogard;Obat Keras;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+33;Stesolid Rt;Obat Keras;Tube;Sedikit;Sedikit;Tidak Tersedia
+34;Mylanta;Obat Bebas;Tablet;Sedang;Sedikit;Tersedia
+35;Valdimex;Obat Keras;Tablet;Sedang;Sedikit;Tersedia
+36;Mylanta;Obat Bebas;Sirup;Sedikit;Sedikit;Tersedia
+37;Betadine;Obat Bebas;Cairan;Sedang;Sedikit;Tersedia
+38;Cefadroxil;Obat Keras;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+39;Insto;Obat Bebas;Cairan;Sedang;Sedang;Tersedia
+40;Flumetason;Obat Bebas;Tube;Sedikit;Sedikit;Tidak Tersedia
+41;Asam Mefanamat;Obat Keras;Sirup;Sedikit;Sedikit;Tidak Tersedia
+42;Alopurinol;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedia
+43;Eritromisin;Obat Keras;Sirup;Sedikit;Sedikit;Tersedia
+44;Bodrex;Obat Bebas;Tablet;Sedang;Sedikit;Tidak Tersedia
+45;H-Booster;Obat Bebas;Sirup;Sedang;Sedang;Tersedia
+46;Mucopect;Obat Keras;Sirup;Sedikit;Sedikit;Tersedia
+47;Ambeven;Obat Bebas;Kapsul;Sedikit;Sedikit;Tidak Tersedia
+48;Diapet;Obat Bebas;Kapsul;Sedang;Sedikit;Tidak Tersedia
+49;Asam Mefanamat;Obat Keras;Tablet;Sedikit;Sedikit;Tidak Tersedia
+50;Komix;Obat Bebas;Sirup;Banyak;Sedikit;Tidak Tersedia
